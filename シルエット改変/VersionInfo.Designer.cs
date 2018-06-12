@@ -86,7 +86,7 @@
             this.lblVersionCheck.Size = new System.Drawing.Size(81, 12);
             this.lblVersionCheck.TabIndex = 1;
             this.lblVersionCheck.Text = "最新を確認する";
-            this.lblVersionCheck.Click += new System.EventHandler(this.lblTwitter_Click);
+            this.lblVersionCheck.Click += new System.EventHandler(this.lblVersionCheck_Click);
             // 
             // VersionInfo
             // 

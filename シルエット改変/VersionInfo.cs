@@ -21,5 +21,10 @@ namespace Plugin
         {
             System.Diagnostics.Process.Start("https://twitter.com/QWERTY_KY");
         }
+
+        private void lblVersionCheck_Click(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://github.com/QWERTYKY/SilhouetteModificationPlugin");
+        }
     }
 }
