@@ -8,7 +8,7 @@ PMXEditor専用のプラグインです
 
 
 ### Download
-todo
+[シルエット改変プラグイン.zip](https://github.com/QWERTYKY/SilhouetteModificationPlugin/files/2094734/default.zip)
 
 
 ### 動作環境
@@ -18,6 +18,10 @@ PMXEditor   ver0.2.5.4
 
 ### 開発環境
 Visual Studio Community 2017
+
+
+### ソースについて
+ビルド時のDLL出力先をPMXEditorのプラグイン設置場所としてください。
 
 
 ### 更新履歴
