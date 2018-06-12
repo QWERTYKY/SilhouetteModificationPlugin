@@ -13,6 +13,7 @@ PMXEditor専用のプラグインです
 
 ### 動作環境
 .NET Framework 4.6.1
+
 PMXEditor   ver0.2.5.4
 
 
