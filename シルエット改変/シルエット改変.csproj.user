@@ -5,4 +5,9 @@
     <StartProgram>D:\NKiYo\MMD\PmxEditor\PmxEditor_x64.exe</StartProgram>
     <StartArguments>D:\NKiYo\MMD\MikuMikuDance_v814x64\UserFile\Model\東方\地霊殿\古明地こいしVer1.00_anek\古明地こいしVer1.00_anek.pmx</StartArguments>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <StartAction>Program</StartAction>
+    <StartProgram>D:\NKiYo\MMD\PmxEditor\PmxEditor_x64.exe</StartProgram>
+    <StartArguments>D:\NKiYo\MMD\MikuMikuDance_v814x64\UserFile\Model\東方\地霊殿\古明地こいしVer1.00_anek\古明地こいしVer1.00_anek.pmx</StartArguments>
+  </PropertyGroup>
 </Project>
